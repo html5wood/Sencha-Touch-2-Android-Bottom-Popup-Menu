@@ -1,0 +1,21 @@
+.removeBorder{
+	padding: 0px !important;
+	background-color: white;
+}
+.segment .x-button-label{
+	left: -24% !important;
+	position: relative;
+}
+.segment{
+	border-left:1px solid;
+	border-radius:0px;
+	background-image:none;
+	background-color:white;
+	text-align:center;
+}
+.menuButtons{
+	border:none;
+	background-image:none;
+	background-color:white;
+	display:inline-block !important;
+}
